@@ -11,7 +11,7 @@
 * [Unstop](https://unstop.com/compete)
 
 ## Major competitions:
-### Check these websites every semester
+### Check these websites every three months
 * [ICPC](https://icpc.global/regionals/finder)
 * [GSoC](https://summerofcode.withgoogle.com/)
 * [MLH](https://www.mlh.com/)
