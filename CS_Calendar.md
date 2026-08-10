@@ -14,6 +14,7 @@
 
 ## Check on January and February to April 
 - [GSoC](https://summerofcode.withgoogle.com)
+** The contributions window is only two weeks in mid March to early July Be careful **
 
 ## Other
 * Kaggle For ML
