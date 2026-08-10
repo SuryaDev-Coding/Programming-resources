@@ -1,17 +1,21 @@
-# Computer Science Contests/Competitions Timetable
+# CS Calendar — Competitions & Hackathons
 
-## Contests:
-### Check this website once every week 
-* [competitiveprogramming.info](https://competitiveprogramming.info/calendar)
+## Check weekly
+- [competitiveprogramming.info](https://competitiveprogramming.info)
+- [MLH](https://mlh.io)
+## Check monthly
+- [Devpost](https://devpost.com)
+- [Devfolio](https://devfolio.co)
+- [Unstop](https://unstop.com)
+- [HackerEarth](https://hackerearth.com)
 
-## Hackathons:
-### Check these websites every month
-* [Devpost](https://devpost.com/hackathons)
-* [Devfolio](https://devfolio.co/discover)
-* [Unstop](https://unstop.com/compete)
+## Check every three months
+- [ICPC](https://icpc.global) — regional registration typically opens around August–September each year; keep an eye out then.
 
-## Major competitions:
-### Check these websites every three months
-* [ICPC](https://icpc.global/regionals/finder)
-* [GSoC](https://summerofcode.withgoogle.com/)
-* [MLH](https://www.mlh.com/)
+## Check on January and February to April 
+- [GSoC](https://summerofcode.withgoogle.com)
+
+## Other
+* Kaggle For ML
+* Your college coding club 
+
