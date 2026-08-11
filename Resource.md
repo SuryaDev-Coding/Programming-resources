@@ -11,4 +11,4 @@
 * [Jiki](https://jiki.io): A website for learning begineer programming *concept*.
 ## Programming Tools:
 * Github tutorial: [English](https://www.youtube.com/watch?v=pJYOG6klqj8&t=1338s) | [Tamil](https://www.youtube.com/watch?v=VIBWdLLq9kQ)
-* [Lovable](https://lovable.dev/dashboard): An ai used to mainly for coding, I am not going to use this till third semester and I hope you do the same
+* [Lovable](https://lovable.dev/dashboard): An ai used to mainly for coding, I am not going to use this till third semester and I hope you do the same. I know no one is going to read this, I don't know why I am wasting time, wait I know because I can do nothing except tell others what to do. for all things considered I am a poopy person, a loser cannot do anything. 
